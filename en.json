@@ -1,5 +1,23 @@
 [
-  { "word": "Hello", "translation": "Bonjour" },
-  { "word": "Cat", "translation": "Chat" },
-  { "word": "Food", "translation": "Nourriture" }
+  {
+    "word": "Hello",
+    "translation": "Bonjour",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/hello.jpg",
+    "example": "Hello! My name is Rania.",
+    "audio": ""
+  },
+  {
+    "word": "Cat",
+    "translation": "Chat",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/cat.jpg",
+    "example": "The cat is on the sofa.",
+    "audio": ""
+  },
+  {
+    "word": "Food",
+    "translation": "Nourriture",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/food.jpg",
+    "example": "I like delicious food.",
+    "audio": ""
+  }
 ]

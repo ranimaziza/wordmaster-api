@@ -1,5 +1,17 @@
 [
-  { "word": "Hola", "translation": "Bonjour" },
-  { "word": "Perro", "translation": "Dog" },
-  { "word": "Agua", "translation": "Water" }
+  {
+    "word": "Hola",
+    "translation": "Bonjour",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/hola.jpg",
+    "example": "Hola! Cómo estás?",
+    "audio": ""
+  },
+  {
+    "word": "Perro",
+    "translation": "Chien",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/perro.jpg",
+    "example": "El perro corre muy rápido.",
+    "audio": ""
+  }
 ]
+

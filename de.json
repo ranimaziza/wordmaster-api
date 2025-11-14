@@ -1,5 +1,17 @@
 [
-  { "word": "Hallo", "translation": "Bonjour" },
-  { "word": "Hund", "translation": "Dog" },
-  { "word": "Brot", "translation": "Bread" }
+  {
+    "word": "Hallo",
+    "translation": "Bonjour",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/hallo.jpg",
+    "example": "Hallo! Ich heiße Rania.",
+    "audio": ""
+  },
+  {
+    "word": "Hund",
+    "translation": "Chien",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/hund.jpg",
+    "example": "Der Hund spielt im Garten.",
+    "audio": ""
+  }
 ]
+

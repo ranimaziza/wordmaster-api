@@ -1,5 +1,17 @@
 [
-  { "word": "Ciao", "translation": "Bonjour" },
-  { "word": "Gatto", "translation": "Cat" },
-  { "word": "Pane", "translation": "Bread" }
+  {
+    "word": "Ciao",
+    "translation": "Bonjour",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/ciao.jpg",
+    "example": "Ciao! Come stai?",
+    "audio": ""
+  },
+  {
+    "word": "Gatto",
+    "translation": "Chat",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/gatto.jpg",
+    "example": "Il gatto mangia la pasta.",
+    "audio": ""
+  }
 ]
+

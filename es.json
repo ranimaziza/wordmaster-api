@@ -2,14 +2,14 @@
   {
     "word": "Hola",
     "translation": "Bonjour",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/hola.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/1.jpg",
     "example": "Hola! Cómo estás?",
     "audio": ""
   },
   {
     "word": "Perro",
     "translation": "Chien",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/perro.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/2.jpg",
     "example": "El perro corre muy rápido.",
     "audio": ""
   }

@@ -2,21 +2,21 @@
   {
     "word": "Hello",
     "translation": "Bonjour",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/hello.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/1.jpg",
     "example": "Hello! My name is Rania.",
     "audio": ""
   },
   {
     "word": "Cat",
     "translation": "Chat",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/cat.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/2.jpg",
     "example": "The cat is on the sofa.",
     "audio": ""
   },
   {
     "word": "Food",
     "translation": "Nourriture",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/food.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/3.jpg",
     "example": "I like delicious food.",
     "audio": ""
   }

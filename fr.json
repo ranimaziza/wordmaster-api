@@ -2,14 +2,14 @@
   {
     "word": "Bonjour",
     "translation": "Hello",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/bonjour.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/1.jpg",
     "example": "Bonjour, comment vas-tu ?",
     "audio": ""
   },
   {
     "word": "Chat",
     "translation": "Cat",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/chat.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/2.jpg",
     "example": "Le chat est sous la table.",
     "audio": ""
   }

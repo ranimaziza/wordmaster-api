@@ -2,14 +2,14 @@
   {
     "word": "Ciao",
     "translation": "Bonjour",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/ciao.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/1.jpg",
     "example": "Ciao! Come stai?",
     "audio": ""
   },
   {
     "word": "Gatto",
     "translation": "Chat",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/gatto.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/2.jpg",
     "example": "Il gatto mangia la pasta.",
     "audio": ""
   }

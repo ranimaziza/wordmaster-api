@@ -2,14 +2,14 @@
   {
     "word": "Hallo",
     "translation": "Bonjour",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/hallo.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/1.jpg",
     "example": "Hallo! Ich heiße Rania.",
     "audio": ""
   },
   {
     "word": "Hund",
     "translation": "Chien",
-    "image": "https://ranimaziza.github.io/wordmaster-api/images/hund.jpg",
+    "image": "https://ranimaziza.github.io/wordmaster-api/images/2.jpg",
     "example": "Der Hund spielt im Garten.",
     "audio": ""
   }
